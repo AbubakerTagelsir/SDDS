@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SDDS</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="hint">Touch Above to Capture Image, enter a name</string>
+    <string name="image_desc">press to add The Infected Images</string>
+</resources>
